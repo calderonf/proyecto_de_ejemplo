@@ -1,5 +1,3 @@
-
-
 #if !defined(DISPLAYS_H)
 #define DISPLAYS_H
 #ifdef __cplusplus
@@ -70,3 +68,4 @@ char Ds_Convertir_en_uni_deci_centi(Ds_Display *dsp,int num);
 } // extern "C"
 #endif
 #endif
+
